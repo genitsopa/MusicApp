@@ -8,7 +8,7 @@ function CenterMenu() {
             <li className={liStyle}>Home</li>
             <li className={liStyle}>About</li>
             <li className={liStyle}>Preformer</li>
-            <li className={liStyle}>Event Shedule</li>
+            <li className={liStyle}>Event Schedule</li>
         </ul>
     </div>
     )
