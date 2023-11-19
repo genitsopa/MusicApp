@@ -11,8 +11,7 @@ function Download() {
           <b>App Now!</b>
         </span>
         <span className="text-[1rem] text-gray-400 px-[15rem] text-center mt-[1rem]">
-          Duis feugiat congue metus, ultrices vulputate nibh viverra eget.
-          Vestibulum ullamcorper volutpat varius.
+        "Immerse yourself in a symphony of sounds with our innovative music app, where melodies meet technology to elevate your auditory experience."
         </span>
       </div>
       <div className="mt-14">
